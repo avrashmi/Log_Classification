@@ -6,10 +6,8 @@ This project implements a **hybrid log classification system**, combining rule-b
 
 
 Architecture Diagram
-![architecture](https://raw.githubusercontent.com/avrashmi/AI/main/resources/arch1.png)
+![Architecture](resources/arch1.png)
 
-
-![architecture](https://github.com/avrashmi/AI/blob/main/Log-classification/resources/arch1.png)
 ---
 
 ## 🔎 Classification Approaches
