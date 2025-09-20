@@ -6,7 +6,7 @@ This project implements a **hybrid log classification system**, combining rule-b
 
 
 Architecture Diagram
-![Architecture](resources/arch1.png)
+![architecture](resources/arch1.png)
 
 ---
 
@@ -30,11 +30,17 @@ Architecture Diagram
 ```
 
 project-root/
+
 │── training/         # Training code (Regex + Sentence Transformer + Logistic Regression)
+
 │── models/           # Saved models (embeddings, classifiers)
+
 │── resources/        # Resource files (sample CSVs, outputs, images, etc.)
+
 │── server.py         # FastAPI server for inference
+
 │── requirements.txt  # Dependencies
+
 │── README.md         # Project documentation
 
 ````
