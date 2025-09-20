@@ -6,7 +6,7 @@ This project implements a **hybrid log classification system**, combining rule-b
 
 
 Architecture Diagram
-![architecture](resources/arch1.png)
+![architecture](../resources/arch1.png)
 
 ![architecture](https://raw.githubusercontent.com/avrashmi/AI/main/resources/arch1.png)
 
