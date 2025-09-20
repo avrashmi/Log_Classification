@@ -2,14 +2,12 @@
 ```markdown
 # 🚀 Hybrid Log Classification 
 
-This project implements a **hybrid log classification system**, combining rule-based, machine learning, and large language model (LLM) approaches to handle a wide range of log message complexities.  
+This project implements a **hybrid log classification system**, combining rule-based, machine learning,
+ and large language model (LLM) approaches to handle a wide range of log message complexities.  
 
 
 Architecture Diagram
-![architecture](../resources/arch1.png)
-
-![architecture](https://raw.githubusercontent.com/avrashmi/AI/main/resources/arch1.png)
-
+![architecture](resources/arch1.png)
 
 ---
 
